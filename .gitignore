@@ -1,0 +1,12 @@
+# Large data files
+*.csv
+*.zip
+*.parquet
+*.h5
+*.pkl
+*.bin
+*.pt
+*.pth
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
